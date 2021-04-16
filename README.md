@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EduardoStevens
-- 👀 I’m interested in Cibersecurity and AI
+- 👀 I’m interested in Mechatronics Engineeering, Cibersecurity and AI
 - 🌱 I’m currently learning Python, C++ and Java
 - 💞️ I’m looking to collaborate on Cibersecurity related projects
 - 📫 How to reach me eduardostevenslira@comunidad.unam.mx
